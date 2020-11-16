@@ -2,8 +2,23 @@
 
 #SketchTheDocs is about bringing visual storytelling and literacy skills to technical writing, technology documentation and related communication modalities for developers and their audiences. 
 
+Humans communicate and learn in multiple ways:
+ - Reading/Writing 
+ - Kinesthetic (by doing)
+ - Auditory (by listening)
+ - Visual (by seeing & interpreting)
 
+In general, most of us will use more than one of these approaches, combining them in context for maximum value. Articles [like this one](http://visualteachingalliance.com/) suggest that nearly 65% of users are visual learners who absorb information from visual cues, vocabulary and imagery.
 
+With _visual storytelling_ I want to focus on a journey that takes us from basic skills to advanced concepts for communicating complex ideas. This includes: 
+ - Visual Storytelling Toolkit (basic skills)
+ - Sketchnoting (rapid information capture)
+ - Anthropomorphism (connecting with characters)
+ - Visual Metaphors (transfer learning by familiarity)
+ - Animation (elevate storytelling with motion)
+ - Comics/Zines (elevate storytelling with narratives & structure)
+
+ [Watch the repo](https://github.com/SketchTheDocs/sketchthedocs.github.io) to get updates on new resources, talks, events and articles to help you progress in your own visual storytelling journeys.
 
 ---
 

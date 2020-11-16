@@ -2,8 +2,8 @@
 
 #SketchTheDocs is about bringing visual storytelling and literacy skills to technical writing, technology documentation and related communication modalities for developers and their audiences. 
 
+---
 
---
 ## My Talks
 
 | Date     | Title   | Event     |  Links   |
@@ -12,7 +12,8 @@
 | May 2020 |  Sketchnoting 101: Getting started with visual storytelling  | [Microsoft Build 2020]() |  [slides](https://speakerdeck.com/nitya/sketchnoting-101-getting-started-with-visual-storytelling) / [video](https://mybuild.microsoft.com/sessions/c55c7a7e-497e-42c1-8938-a3a8de94bd7d?source=sessions)|
 
 
---
+---
+
 ## Useful Resources
 
 > BOOKS
@@ -34,4 +35,4 @@
 
 > ARTICLES
 
--- 
+-- -

@@ -2,19 +2,21 @@
 
 #SketchTheDocs is about bringing visual storytelling and literacy skills to technical writing, technology documentation and related communication modalities for developers and their audiences. 
 
+
+
+
 ---
 
-## My Talks
+## TALKS
 
 | Date     | Title   | Event     |  Links   |
 | :------ | :---------- | :----------- | :----------- |
 | May 2020 |  Chalk The Talk: How sketchnoting makes you a better public speaker  | [Lets Sketch Tech 2020](https://letssketchtech.com/)  | [slides](https://speakerdeck.com/nitya/number-chalkthetalk-how-sketchnoting-makes-you-a-better-public-speaker) / [video](https://www.youtube.com/watch?v=cQOo1U57XyM) |
 | May 2020 |  Sketchnoting 101: Getting started with visual storytelling  | [Microsoft Build 2020]() |  [slides](https://speakerdeck.com/nitya/sketchnoting-101-getting-started-with-visual-storytelling) / [video](https://mybuild.microsoft.com/sessions/c55c7a7e-497e-42c1-8938-a3a8de94bd7d?source=sessions)|
+| Nov 2020 | SketchTheDocs: Visual Storytelling For Developers | [Droidcon Americas 2020](https://www.online.droidcon.com/americas2020) | slides / video |
 
 
----
-
-## Useful Resources
+## RESOURCES
 
 > BOOKS
 
